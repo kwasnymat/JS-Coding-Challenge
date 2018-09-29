@@ -5,5 +5,20 @@
     font-family: 'Roboto Slab', serif;
 }
 
+.add-input {
+    margin: 10px;
+}
 
+.first {
+    display: flex;
+    flex-direction: column;
+    width: 50vh;
+    margin-top: 10px;
+}
 
+.second {
+    display: flex;
+    flex-direction: column;
+    width: 50vh;
+    margin-top: 10px;
+}
